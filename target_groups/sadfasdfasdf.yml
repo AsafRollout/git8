@@ -1,0 +1,6 @@
+type: target-group
+name: sadfasdfasdf
+conditions:
+  - operator: regex
+    property: cp-1
+    operand: '444444445'

@@ -1,0 +1,10 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+flag: dasfasf
+conditions:
+  - property:
+      name: rox.language
+      operator: regex
+      operand: asdf
+    value: true
+value: false

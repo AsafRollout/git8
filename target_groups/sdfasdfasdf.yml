@@ -1,0 +1,6 @@
+type: target-group
+name: sdfasdfasdf
+conditions:
+  - operator: semver-eq
+    property: rox.app_release
+    operand: 1.2.4
